@@ -1,4 +1,4 @@
-# Fishackathon 2018
+# Fishackathon 2018 "Visual Survey"
 
 This project was done during Fishackathon as a solution for Challenge 2, which was Translation Services for Labor Inspections.
 The problem was that the language barriers primarily in the Thai fishing industry were making it difficult for inspectors to efficiently record survey responses. Translators were needed to translate multiple languages such as Burmese and Lao and it was not efficient. They wanted a survey that can be implemented on mobile devices for workers to take.
